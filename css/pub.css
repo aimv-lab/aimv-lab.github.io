@@ -1,0 +1,14 @@
+.graduates_nav ul li { width: 100px; text-align: center;}
+.fuwupage-cont .profile_box { width: 150px; display: inline-block;}
+.fuwupage-cont .profile_box img {width: 150px;height: 224px;}
+.fuwupage-cont .profile_box .name {text-align: center;font-weight:bold;color: brown!important;font-size: 15px;}
+.fuwupage-cont .profile_box .title {text-align: center;font-size: 15px;color: black;}
+.profile-meta-box {padding: 10px 0;}
+.profile-meta-box h1 {font-size:18px; font-family: "Microsoft yahei";}
+.profile-meta-box p {font-size: 16px!important;}
+.profile-meta-box .name {border-bottom: 2px black solid; padding: 2px 0; font-size: 25px;}
+.profile-meta-box .new_honor {font-size: 16px; padding: 2px 0;}
+.graduates-content {width: 100%; padding: 0; display: inline-block;}
+.graduates-content {padding: 0;}
+.graduates-content {background: none!important;}
+table { width: 100%;}

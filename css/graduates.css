@@ -1,0 +1,18 @@
+.graduates_nav ul li { width: 150px; text-align: center;}
+.fuwupage-cont .profile_box { width: 150px; display: inline-block;}
+.fuwupage-cont .profile_box img {width: 150px;height: 220px;}
+.fuwupage-cont .profile_box .name {text-align: center;font-weight:bold;color: brown!important;font-size: 15px;}
+.fuwupage-cont .profile_box .title {text-align: center;font-size: 15px;color: black;}
+.profile-meta-box {padding: 10px 0;}
+.profile-meta-box h1 {font-size:18px; font-family: "Microsoft yahei";}
+.profile-meta-box p {font-size: 16px!important;}
+.profile-meta-box .name {border-bottom: 2px black solid; padding: 2px 0; font-size: 25px;}
+.profile-meta-box .new_honor {font-size: 16px; padding: 2px 0;}
+.graduate-table {width: 100%;}
+.fuwupage-cont .r-cont{ width: 220px!important;display: inline-block;vertical-align:top;}
+.fuwupage-cont .l-cont{ width: auto!important;display: inline-block;vertical-align:top;}
+.profile-meta-box strong {color: chocolate;}
+.profile-meta-box .name {color: coral;}
+.join-time h1 { font-size: 25px;font-weight: bold;}
+.l-cont {padding: 0 20px!important;}
+.fuwupage-cont div {background: none!important;}
